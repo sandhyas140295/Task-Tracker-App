@@ -32,7 +32,7 @@ step by step Explaination part:
     *  A  Delete button
 
 
-5) Click the 🗑️ icon to delete a task — it is instantly removed from the list.
+5) Click the delete icon to delete a task — it is instantly removed from the list.
 
 6) The app updates in real-time without refreshing the page.
 
